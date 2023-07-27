@@ -1,2 +1,2 @@
 # Discord-Meme
-This is a program that can modify images and videos by adding speech bubbles or captions. Place your image or video in the program's folder, then run the "run.bat" file. Follow the instructions and choose option 1 for a speech bubble overlay or option 2 for adding a caption to the image.
+This program lets you modify images and videos with speech bubbles or captions. Place your file in the program folder, run "run.bat," and choose option 1 for speech bubbles or option 2 for captions. Enter the file name (e.g., test.png for PNG) and, for option 2, enter the file name and caption text.
