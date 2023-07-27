@@ -1,4 +1,4 @@
-# Discord-Meme
+# Discord Meme
 This program lets you modify images and videos with speech bubbles or captions. To use it, ensure you have the following requirements installed:
 
 * PIL library: https://pillow.readthedocs.io/en/stable/installation.html
